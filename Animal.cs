@@ -1,19 +1,19 @@
 class Animal
 {
-  public int age;
-  public string name;
+  private int age;
+  private string? name;
 
   public virtual void MakeSound()
   {
     Console.WriteLine("Animal sound");
   }
 
-  private int AnimalAge
+  public int Age
   {
     get { return age; }
     set
     {
-      if (age < 0)
+      if (value < 0)
       {
         Console.WriteLine("Age cannot be negative.");
       }
@@ -23,10 +23,22 @@ class Animal
       }
     }
   }
-  private string AnimalName
+  public string Name
   {
-    get { return name; }
+    get { return name ?? string.Empty; }
     set { name = value; }
+  }
+
+  public void Describe()
+  {
+    Console.WriteLine($"I'm a {this.GetType().Name} and I'm {Age} years old.");
+  }
+
+  static void Main(string[] args)
+  {
+    Lion leo = new Lion();
+    leo.name = "Leo";
+    Console.WriteLine(leo.name);
   }
 }
 

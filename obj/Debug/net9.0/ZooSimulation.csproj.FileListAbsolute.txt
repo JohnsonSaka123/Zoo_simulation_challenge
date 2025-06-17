@@ -1,0 +1,15 @@
+C:\Users\HomePC\ZooSimulation\bin\Debug\net9.0\ZooSimulation.exe
+C:\Users\HomePC\ZooSimulation\bin\Debug\net9.0\ZooSimulation.deps.json
+C:\Users\HomePC\ZooSimulation\bin\Debug\net9.0\ZooSimulation.runtimeconfig.json
+C:\Users\HomePC\ZooSimulation\bin\Debug\net9.0\ZooSimulation.dll
+C:\Users\HomePC\ZooSimulation\bin\Debug\net9.0\ZooSimulation.pdb
+C:\Users\HomePC\ZooSimulation\obj\Debug\net9.0\ZooSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomePC\ZooSimulation\obj\Debug\net9.0\ZooSimulation.AssemblyInfoInputs.cache
+C:\Users\HomePC\ZooSimulation\obj\Debug\net9.0\ZooSimulation.AssemblyInfo.cs
+C:\Users\HomePC\ZooSimulation\obj\Debug\net9.0\ZooSimulation.csproj.CoreCompileInputs.cache
+C:\Users\HomePC\ZooSimulation\obj\Debug\net9.0\ZooSimulation.sourcelink.json
+C:\Users\HomePC\ZooSimulation\obj\Debug\net9.0\ZooSimulation.dll
+C:\Users\HomePC\ZooSimulation\obj\Debug\net9.0\refint\ZooSimulation.dll
+C:\Users\HomePC\ZooSimulation\obj\Debug\net9.0\ZooSimulation.pdb
+C:\Users\HomePC\ZooSimulation\obj\Debug\net9.0\ZooSimulation.genruntimeconfig.cache
+C:\Users\HomePC\ZooSimulation\obj\Debug\net9.0\ref\ZooSimulation.dll
